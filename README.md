@@ -17,3 +17,4 @@ Population at state level is present in population_india_census2011.csv file.
 Number of COVID-19 tests at daily level in ICMRTestingDetails.csv file.
 Number of hospital beds in each state in present in HospitalBedsIndia.csv file.
 
+Using all this data I have attempted to analyse the data as much as I could. Analysis shows the India's ranking in the world and Asia. Also I have studied the doubling rate, testing labs facility in India, measures taken by India and various factors affecting the spread of Cvid-19.
