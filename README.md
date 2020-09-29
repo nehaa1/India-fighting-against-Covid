@@ -23,6 +23,6 @@ Various factors that are considered while working on this project are-
 * Number of COVID-19 tests at daily level in ICMRTestingDetails.csv file.
 * Number of hospital beds in each state in present in HospitalBedsIndia.csv file.
 
-Going stepwise first perform countrywise analysis and then statewise to get bigger picture. Also analyse the healthcare facility in each state and over all India.
+Going stepwise first perform countrywise analysis and then statewise to get bigger picture. Also analyse the healthcare facility in each state and over all India. 
 
 Using all this data I have attempted to analyse the data as much as I could. Analysis shows the India's ranking in the world and Asia. Also I have studied the doubling rate, testing labs facility in India, measures taken by India and various factors affecting the spread of Covid-19.
