@@ -3,6 +3,9 @@
 This project depicts the fight of India against Covid-19. 
 The datasets are taken from various sources made available by Government of India as as worldwide data.
 
+## Related Blog
+https://medium.com/@nehaa.139/why-is-india-struggling-to-fight-against-covid-19-819c9a9eec53
+
 Various factors that are considered while working on this project are-
 1. Where does India stand at present?
 2. Is healthcare in India good enough to handle this situation on large scale?
