@@ -28,7 +28,7 @@ To come across this scenario, we need to answer few questions. Here are those qu
 ## About the Datasets
 The number of new cases are increasing day by day around the world. This dataset has information from the states and union territories of India at daily level.
 
-State level data comes from <b>Ministry of Health & Family Welfare<\b>.
+State level data comes from <b> Ministry of Health & Family Welfare <\b>.
 
 Individual level data comes from covid-19 ndia.
 * COVID-19 cases at daily level is present in covid_19_india.csv file.
