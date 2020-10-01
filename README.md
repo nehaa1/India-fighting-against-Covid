@@ -30,7 +30,9 @@ The number of new cases are increasing day by day around the world. This dataset
 
 State level data comes from <b> Ministry of Health & Family Welfare </b>.
 
-Individual level data comes from covid-19 ndia.
+Individual level data comes from <b> covid19india </b>.
+
+Main file in this dataset is covid_19_data.csv which contains the data across the globe.
 * COVID-19 cases at daily level is present in covid_19_india.csv file.
 * Individual level details are present in IndividualDetails.csv file obtained from http://portal.covid19india.org/.
 * Population at state level is present in population_india_census2011.csv file.
@@ -41,3 +43,8 @@ Individual level data comes from covid-19 ndia.
 Going stepwise first perform countrywise analysis and then statewise to get bigger picture. Also analyse the healthcare facility in each state and over all India. 
 
 Using all this data I have attempted to analyse the data as much as I could. Analysis shows the India's ranking in the world and Asia. Also I have studied the doubling rate, testing labs facility in India, measures taken by India and various factors affecting the spread of Covid-19.
+
+## Acknowledgements
+Thanks to <b> Indian Ministry of Health & Family Welfare </b> for making the data available to general public.
+
+Thanks to <b> covid19india.org </b> for making the individual level details and testing details available to general public.
