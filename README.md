@@ -1,6 +1,6 @@
 # India-fighting-against-Covid # 
 
-COVID 19 has spread across the world so fast that it was impossible to take measures against it. 
+COVID 19 has spread all across the world so swiftly that it was impossible to take measures against it. 
 Gradually it started spreading across the globe. In India the outbreak reached a bit late (in March 2020) as compared to the other countries, 
 but it started to pick up pace within a short duration.
 
@@ -19,7 +19,7 @@ https://medium.com/@nehaa.139/why-is-india-struggling-to-fight-against-covid-19-
 
 
 ## About the Datasets
-The number of new cases are increasing day by day around the world. This dataset has information from the states and union territories of India at daily level.
+The number of new cases are increasing day by day all around the world. This dataset has updated information from the states and union territories of India at daily level.
 
 State level data comes from <b> Ministry of Health & Family Welfare </b>.
 
@@ -38,12 +38,12 @@ Main file in this dataset is covid_19_data.csv which contains the data across th
 To come across this scenario, we need to answer few questions. Here are those questions:
 1. Where does India stand at present?
 2. Is healthcare in India good enough to handle this situation on large scale?
-3. Does population density has anything to do with spread of disease?
+3. Does population density has anything to do with spread of this disease?
 
 Going stepwise first perform countrywise analysis to get the current ranking of India across the globe.
-Studying statewise to get bigger picture, I have plotted the number of cases reported daily in each state, calculated doubling rate, effect of population density etc. Also analyse the healthcare facility in each state and over all India. 
+Studying statewise to get bigger picture I have plotted the number of cases reported daily in each state, calculated doubling rate, effect of population density etc. Also analyse the healthcare facility in each state and over all India. 
 
-Using all this data I have attempted to analyse the data as much as I could. Analysis shows the India's ranking in the world and Asia. Also I have studied the doubling rate, testing labs facility in India, measures taken by India and various factors affecting the spread of Covid-19.
+Using all this data, I have attempted to analyse the data as much as I could. Analysis shows the India's ranking in Asiaas well as the world. Also I have studied the doubling rate, testing labs facility in India, measures taken by India and various factors affecting the spread of Covid-19.
 
 ## Acknowledgements
 Thanks to <b> Indian Ministry of Health & Family Welfare </b> for making the data available to general public.
