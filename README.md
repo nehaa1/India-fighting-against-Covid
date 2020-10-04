@@ -37,8 +37,9 @@ Main file in this dataset is covid_19_data.csv which contains the data across th
 
 To come across this scenario, we need to answer few questions. Here are those questions:
 1. Where does India stand at present?
-2. Is healthcare in India good enough to handle this situation on large scale?
-3. Does population density has anything to do with spread of this disease?
+2. What is the effect of doubling rate?
+3. Is healthcare in India good enough to handle this situation on large scale?
+4. Does population density has anything to do with spread of this disease?
 
 Going stepwise first perform countrywise analysis to get the current ranking of India across the globe.
 Studying statewise to get bigger picture I have plotted the number of cases reported daily in each state, calculated doubling rate, effect of population density etc. Also analyse the healthcare facility in each state and over all India. 
