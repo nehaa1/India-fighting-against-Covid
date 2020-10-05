@@ -1,4 +1,4 @@
-# India-fighting-against-Covid # 
+# India fighting against Covid # 
 
 COVID 19 has spread all across the world so swiftly that it was impossible to take measures against it. 
 Gradually it started spreading across the globe. In India the outbreak reached a bit late (in March 2020) as compared to the other countries, 
